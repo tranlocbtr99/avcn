@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+{% block title %}Lam bai {{ title }} - AVCN{% endblock %}
+{% block content %}
+<div class="test-wrap">
+  <div class="test-head">
+    <div>
+      <h2>{{ title }}</h2>
+      <p class="muted">{{ count }} cau trac nghiem &bull; thoi gian lam bai: <b>90 phut</b></p>
+    </div>
+    <div id="timer" class="timer">01:30:00</div>
+  </div>
+
+  <form id="testForm" onsubmit="return submitTest(event)">
+    <div class="progress" style="display:none">
+      <div class="progress-track"><div class="progress-bar" id="progressBar"></div></div>
+      <span id="progressText">0 / {{ count }}</span>
+    </div>
+
+    <div id="questions" class="questions"></div>
+
+    <div class="test-footer">
+      <label class="muted">Ho ten: </label>
+      <input type="text" id="userName" placeholder="Nhap ten cua ban" required maxlength="60" value="">
+      <button type="button" id="btnSave" class="btn ghost">Luu tam / kiem tra</button>
+      <button type="submit" id="btnSubmit" class="btn">Nop bai va xem ket qua</button>
+    </div>
+  </form>
+  <div id="msg" class="msg"></div>
+</div>
+
+{% block scripts %}
+<script>
+const TEST_ID = {{ test_id|tojson }};
+const TIME_SEC = {{ time_sec }};
+</script>
+<script src="{{ url_for('static', filename='app.js') }}"></script>
+{% endblock %}
+{% endblock %}

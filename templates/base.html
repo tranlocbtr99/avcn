@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}AVCN - Thi trac nghiem tieng Anh tai chinh{% endblock %}</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+<header class="bar">
+  <div class="container">
+    <a href="{{ url_for('index') }}" class="brand">AVCN</a>
+    <span class="desc">Thi trac nghiem tieng Anh chuyen nganh Tai chinh - Ngan hang</span>
+  </div>
+</header>
+<main class="container">{% block content %}{% endblock %}</main>
+<footer class="bar small">
+  <div class="container">Bo de thi tra cuu tu kho kho tu vung da cung cap. Cap nhat bang viec sua file vocab.json va chay generate_questions.py.</div>
+</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

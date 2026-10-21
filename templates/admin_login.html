@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+{% block title %}Dang nhap quan tri - AVCN{% endblock %}
+{% block content %}
+<h2>Quan tri - bao cao ket qua</h2>
+<form method="get" action="{{ url_for('admin') }}" class="card login-card">
+  <label>Nhap token quan tri:</label>
+  <input type="password" name="token" placeholder="Token" required>
+  <button class="btn" type="submit">Xem bao cao</button>
+</form>
+<p class="muted small">Mac dinh token: admin123 (doi trong app.py hoai bien moi ADMIN_TOKEN).</p>
+{% endblock %}

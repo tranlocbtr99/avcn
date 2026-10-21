@@ -1,0 +1,2657 @@
+[
+  {
+    "term": "a new line of credit",
+    "def_en": "A newly approved borrowing facility available to a customer.",
+    "mean_vi": "một hạn mức tín dụng mới"
+  },
+  {
+    "term": "accept",
+    "def_en": "To receive or agree to take something.",
+    "mean_vi": "chấp nhận; tiếp nhận"
+  },
+  {
+    "term": "access",
+    "def_en": "The ability or permission to enter or use a system or account; to use it.",
+    "mean_vi": "quyền truy cập; truy cập"
+  },
+  {
+    "term": "accidental",
+    "def_en": "Happening unintentionally or by chance.",
+    "mean_vi": "vô tình; ngoài ý muốn"
+  },
+  {
+    "term": "account",
+    "def_en": "A record or arrangement for holding money and recording transactions.",
+    "mean_vi": "tài khoản"
+  },
+  {
+    "term": "account application",
+    "def_en": "A form used to request the opening of a bank account.",
+    "mean_vi": "đơn đăng ký mở tài khoản"
+  },
+  {
+    "term": "account balance",
+    "def_en": "The amount of money recorded in a bank account.",
+    "mean_vi": "số dư tài khoản"
+  },
+  {
+    "term": "account closure",
+    "def_en": "The process of ending a bank account.",
+    "mean_vi": "việc đóng tài khoản"
+  },
+  {
+    "term": "account details",
+    "def_en": "Information identifying or describing a bank account.",
+    "mean_vi": "thông tin tài khoản"
+  },
+  {
+    "term": "account holder",
+    "def_en": "A person or organization that owns a bank account.",
+    "mean_vi": "chủ tài khoản"
+  },
+  {
+    "term": "account locked",
+    "def_en": "A state in which access to an account is blocked.",
+    "mean_vi": "tài khoản bị khóa"
+  },
+  {
+    "term": "account number",
+    "def_en": "A unique number used to identify a bank account.",
+    "mean_vi": "số tài khoản"
+  },
+  {
+    "term": "account opening form",
+    "def_en": "A form used to apply for a new bank account.",
+    "mean_vi": "mẫu đơn mở tài khoản"
+  },
+  {
+    "term": "account statement",
+    "def_en": "A document showing transactions and the balance of a bank account over a period.",
+    "mean_vi": "sao kê tài khoản"
+  },
+  {
+    "term": "accurately",
+    "def_en": "Correctly and without errors.",
+    "mean_vi": "một cách chính xác"
+  },
+  {
+    "term": "ACH (Automated Clearing House)",
+    "def_en": "An electronic network that processes batches of payments between financial institutions.",
+    "mean_vi": "hệ thống thanh toán bù trừ tự động"
+  },
+  {
+    "term": "activate a credit card",
+    "def_en": "To enable a credit card to be used.",
+    "mean_vi": "kích hoạt thẻ tín dụng"
+  },
+  {
+    "term": "activate a debit card",
+    "def_en": "To enable a debit card to be used.",
+    "mean_vi": "kích hoạt thẻ ghi nợ"
+  },
+  {
+    "term": "adding machine",
+    "def_en": "A machine used mainly for adding numbers and performing basic calculations.",
+    "mean_vi": "máy cộng"
+  },
+  {
+    "term": "advice",
+    "def_en": "Guidance or recommendations about what to do.",
+    "mean_vi": "lời khuyên; tư vấn"
+  },
+  {
+    "term": "advise",
+    "def_en": "To give information or recommendations to help someone decide.",
+    "mean_vi": "tư vấn"
+  },
+  {
+    "term": "AML (Anti-Money Laundering)",
+    "def_en": "Measures intended to prevent and detect the laundering of criminal proceeds.",
+    "mean_vi": "phòng chống rửa tiền"
+  },
+  {
+    "term": "amount",
+    "def_en": "A quantity of money or something else.",
+    "mean_vi": "số tiền; lượng"
+  },
+  {
+    "term": "analyze",
+    "def_en": "To examine information systematically in order to understand or evaluate it.",
+    "mean_vi": "phân tích"
+  },
+  {
+    "term": "annual fee",
+    "def_en": "A fee charged once per year for a financial product or service.",
+    "mean_vi": "phí thường niên"
+  },
+  {
+    "term": "application",
+    "def_en": "A formal request for an account, loan, service, or position.",
+    "mean_vi": "đơn đăng ký; hồ sơ đề nghị"
+  },
+  {
+    "term": "application fee",
+    "def_en": "A fee charged for submitting a loan or financial-service application.",
+    "mean_vi": "phí đăng ký/nộp hồ sơ"
+  },
+  {
+    "term": "application form",
+    "def_en": "A document used to request a service, account, loan, or position.",
+    "mean_vi": "mẫu đơn đăng ký"
+  },
+  {
+    "term": "apply for a credit card",
+    "def_en": "To submit a request to be issued a credit card.",
+    "mean_vi": "nộp hồ sơ mở thẻ tín dụng"
+  },
+  {
+    "term": "apply for a loan",
+    "def_en": "To submit a request to borrow money.",
+    "mean_vi": "nộp hồ sơ vay"
+  },
+  {
+    "term": "approval",
+    "def_en": "Official acceptance or permission.",
+    "mean_vi": "sự phê duyệt"
+  },
+  {
+    "term": "approve",
+    "def_en": "To officially accept or authorize something.",
+    "mean_vi": "phê duyệt"
+  },
+  {
+    "term": "approve an application",
+    "def_en": "To formally accept a submitted request.",
+    "mean_vi": "phê duyệt hồ sơ; chấp thuận đơn đăng ký"
+  },
+  {
+    "term": "APR (Annual Percentage Rate)",
+    "def_en": "Annual percentage rate; the yearly cost of borrowing expressed as a percentage.",
+    "mean_vi": "tỷ lệ phần trăm hằng năm; APR"
+  },
+  {
+    "term": "assess",
+    "def_en": "To examine something in order to judge its value, quality, or risk.",
+    "mean_vi": "đánh giá"
+  },
+  {
+    "term": "asset",
+    "def_en": "Something of economic value owned or controlled by a person or organization.",
+    "mean_vi": "tài sản"
+  },
+  {
+    "term": "assist",
+    "def_en": "To help someone do something.",
+    "mean_vi": "hỗ trợ"
+  },
+  {
+    "term": "assistance with taxes",
+    "def_en": "Help with understanding or dealing with tax matters.",
+    "mean_vi": "hỗ trợ về thuế"
+  },
+  {
+    "term": "assistant",
+    "def_en": "A person who helps another person perform their work.",
+    "mean_vi": "trợ lý"
+  },
+  {
+    "term": "ATM (Automated Teller Machine)",
+    "def_en": "A self-service machine used for cash withdrawals and other banking transactions.",
+    "mean_vi": "máy giao dịch tự động; máy ATM"
+  },
+  {
+    "term": "audit",
+    "def_en": "A systematic examination of financial records or other evidence.",
+    "mean_vi": "kiểm toán"
+  },
+  {
+    "term": "authentication",
+    "def_en": "The process of checking that a user or entity is who they claim to be.",
+    "mean_vi": "xác thực"
+  },
+  {
+    "term": "automatic payment",
+    "def_en": "A payment made automatically under a previously arranged instruction.",
+    "mean_vi": "thanh toán tự động"
+  },
+  {
+    "term": "available balance",
+    "def_en": "The amount of money in an account that can currently be used.",
+    "mean_vi": "số dư khả dụng"
+  },
+  {
+    "term": "available credit",
+    "def_en": "The amount of a credit limit that remains available for use.",
+    "mean_vi": "hạn mức tín dụng còn khả dụng"
+  },
+  {
+    "term": "average annual return",
+    "def_en": "The average yearly gain or loss on an investment over a period.",
+    "mean_vi": "tỷ suất sinh lời bình quân hằng năm Ghi chú: Nguồn không nêu cách tính trung bình; không mặc định đồng nhất với lợi suất kép hằng năm."
+  },
+  {
+    "term": "average balance",
+    "def_en": "The average amount of money held in an account over a specified period.",
+    "mean_vi": "số dư bình quân"
+  },
+  {
+    "term": "bachelor's degree",
+    "def_en": "An undergraduate academic degree awarded after a university-level program.",
+    "mean_vi": "bằng cử nhân"
+  },
+  {
+    "term": "balance",
+    "def_en": "The amount held in an account or still owed on a debt.",
+    "mean_vi": "số dư; dư nợ"
+  },
+  {
+    "term": "balance sheet blanks",
+    "def_en": "Blank forms or spaces for recording balance-sheet information; the source phrase may refer to teller balancing forms.",
+    "mean_vi": "các ô/mẫu trống của bảng cân đối kế toán Ghi chú: Giữ cách ghi của Word; cần ngữ cảnh gốc để phân biệt bảng cân đối kế toán và mẫu cân quỹ."
+  },
+  {
+    "term": "balance transfer",
+    "def_en": "Moving an outstanding balance from one credit account to another.",
+    "mean_vi": "chuyển dư nợ"
+  },
+  {
+    "term": "balanced fund",
+    "def_en": "An investment fund that combines shares, bonds, and sometimes other assets.",
+    "mean_vi": "quỹ cân bằng"
+  },
+  {
+    "term": "ballpoint pens",
+    "def_en": "Pens that write with ink delivered through a small rotating ball.",
+    "mean_vi": "bút bi"
+  },
+  {
+    "term": "bank",
+    "def_en": "A financial institution that provides deposit, lending, and payment services.",
+    "mean_vi": "ngân hàng"
+  },
+  {
+    "term": "bank account",
+    "def_en": "An arrangement with a bank for keeping money and making transactions.",
+    "mean_vi": "tài khoản ngân hàng"
+  },
+  {
+    "term": "bank card",
+    "def_en": "A card issued by a bank for payments, withdrawals, or account access.",
+    "mean_vi": "thẻ ngân hàng"
+  },
+  {
+    "term": "bank document",
+    "def_en": "A document used or issued in banking activities.",
+    "mean_vi": "chứng từ; tài liệu ngân hàng"
+  },
+  {
+    "term": "bank furniture",
+    "def_en": "Furniture used in a bank, such as desks, chairs, counters, and cabinets.",
+    "mean_vi": "nội thất ngân hàng"
+  },
+  {
+    "term": "bank loan",
+    "def_en": "Money lent by a bank under agreed repayment conditions.",
+    "mean_vi": "khoản vay ngân hàng"
+  },
+  {
+    "term": "bank note",
+    "def_en": "A paper banknote issued as money.",
+    "mean_vi": "tiền giấy"
+  },
+  {
+    "term": "bank statement",
+    "def_en": "A record of the transactions and balance of a bank account over a period.",
+    "mean_vi": "sao kê ngân hàng"
+  },
+  {
+    "term": "bank supplies",
+    "def_en": "Materials and equipment used in daily banking operations.",
+    "mean_vi": "vật tư ngân hàng"
+  },
+  {
+    "term": "bank teller",
+    "def_en": "A bank employee who processes customers' everyday financial transactions.",
+    "mean_vi": "giao dịch viên ngân hàng"
+  },
+  {
+    "term": "bank transfer",
+    "def_en": "The movement of money from one bank account to another.",
+    "mean_vi": "chuyển khoản ngân hàng"
+  },
+  {
+    "term": "banking",
+    "def_en": "The business and activities of banks.",
+    "mean_vi": "hoạt động ngân hàng"
+  },
+  {
+    "term": "bank-to-bank transfer",
+    "def_en": "A transfer of funds from one bank to another.",
+    "mean_vi": "chuyển tiền liên ngân hàng"
+  },
+  {
+    "term": "beneficiary",
+    "def_en": "A person or organization entitled to receive money or another benefit.",
+    "mean_vi": "người thụ hưởng"
+  },
+  {
+    "term": "bill",
+    "def_en": "A request for payment; also a banknote in American English.",
+    "mean_vi": "hóa đơn; tờ tiền"
+  },
+  {
+    "term": "bill pay transaction",
+    "def_en": "A transaction made to pay a bill through a bank or payment service.",
+    "mean_vi": "giao dịch thanh toán hóa đơn"
+  },
+  {
+    "term": "bill straps",
+    "def_en": "Bands used to bundle paper currency into groups.",
+    "mean_vi": "dây/băng bó tiền giấy Ghi chú: Dạng số ít: bill strap."
+  },
+  {
+    "term": "billing cycle",
+    "def_en": "The period covered by a bill or credit card statement.",
+    "mean_vi": "chu kỳ sao kê; kỳ lập hóa đơn"
+  },
+  {
+    "term": "biometric authentication",
+    "def_en": "Identity verification using physical or behavioural characteristics.",
+    "mean_vi": "xác thực sinh trắc học"
+  },
+  {
+    "term": "block a card",
+    "def_en": "To prevent a payment card from being used.",
+    "mean_vi": "khóa thẻ"
+  },
+  {
+    "term": "board chairman",
+    "def_en": "The person who leads the board of directors.",
+    "mean_vi": "chủ tịch hội đồng quản trị"
+  },
+  {
+    "term": "board of directors",
+    "def_en": "The group of people elected or appointed to oversee an organization.",
+    "mean_vi": "hội đồng quản trị Ghi chú: Nguồn PDF ghi “Board of Director”; dạng chuẩn là “board of directors”."
+  },
+  {
+    "term": "bond",
+    "def_en": "A debt security under which an issuer owes money to investors.",
+    "mean_vi": "trái phiếu"
+  },
+  {
+    "term": "borrow",
+    "def_en": "To receive money with an agreement to pay it back.",
+    "mean_vi": "vay; mượn"
+  },
+  {
+    "term": "borrower",
+    "def_en": "A person or organization that receives money under a loan agreement.",
+    "mean_vi": "bên vay"
+  },
+  {
+    "term": "branch",
+    "def_en": "A local office of a bank or another organization.",
+    "mean_vi": "chi nhánh"
+  },
+  {
+    "term": "branch manager",
+    "def_en": "A person responsible for a bank branch's operations and employees.",
+    "mean_vi": "giám đốc chi nhánh"
+  },
+  {
+    "term": "branch teller supervisor",
+    "def_en": "An employee who supervises the tellers at a bank branch.",
+    "mean_vi": "giám sát viên giao dịch tại chi nhánh"
+  },
+  {
+    "term": "breakroom",
+    "def_en": "A room where employees can rest or take breaks.",
+    "mean_vi": "phòng nghỉ nhân viên"
+  },
+  {
+    "term": "brokerage",
+    "def_en": "The business or service of arranging transactions for clients; a brokerage firm.",
+    "mean_vi": "hoạt động môi giới; công ty môi giới"
+  },
+  {
+    "term": "build trust",
+    "def_en": "To develop confidence in someone's honesty, competence, or reliability.",
+    "mean_vi": "xây dựng lòng tin"
+  },
+  {
+    "term": "business",
+    "def_en": "An organization or activity involved in providing goods or services.",
+    "mean_vi": "doanh nghiệp; hoạt động kinh doanh"
+  },
+  {
+    "term": "business account",
+    "def_en": "A bank account used for business activities.",
+    "mean_vi": "tài khoản doanh nghiệp"
+  },
+  {
+    "term": "business decision",
+    "def_en": "A choice concerning the management or activities of a business.",
+    "mean_vi": "quyết định kinh doanh"
+  },
+  {
+    "term": "calculator",
+    "def_en": "An electronic device used for mathematical calculations.",
+    "mean_vi": "máy tính cầm tay"
+  },
+  {
+    "term": "capital",
+    "def_en": "Money or other resources used to finance a business or investment.",
+    "mean_vi": "vốn"
+  },
+  {
+    "term": "career path",
+    "def_en": "The sequence of jobs and development stages in a person's working life.",
+    "mean_vi": "lộ trình nghề nghiệp"
+  },
+  {
+    "term": "carpet floor mats",
+    "def_en": "Carpeted mats placed on floors, often near entrances or work areas.",
+    "mean_vi": "thảm trải sàn"
+  },
+  {
+    "term": "cash",
+    "def_en": "Money in physical form, especially notes and coins.",
+    "mean_vi": "tiền mặt"
+  },
+  {
+    "term": "cash advance",
+    "def_en": "Cash borrowed using a credit card or another credit facility.",
+    "mean_vi": "ứng tiền mặt"
+  },
+  {
+    "term": "cash count",
+    "def_en": "The act or result of counting physical cash.",
+    "mean_vi": "việc kiểm đếm tiền mặt"
+  },
+  {
+    "term": "cash drawer",
+    "def_en": "A drawer in a cash register or teller station used to store money.",
+    "mean_vi": "ngăn kéo đựng tiền"
+  },
+  {
+    "term": "cash flow",
+    "def_en": "The movement of money into and out of a person, business, or project.",
+    "mean_vi": "dòng tiền"
+  },
+  {
+    "term": "cash in",
+    "def_en": "Money coming into an account or business; in the diagram, a cash deposit.",
+    "mean_vi": "tiền vào; nộp tiền mặt"
+  },
+  {
+    "term": "cash out",
+    "def_en": "Money leaving an account or business; in the diagram, a cash withdrawal.",
+    "mean_vi": "tiền ra; rút tiền mặt"
+  },
+  {
+    "term": "cash overage",
+    "def_en": "A situation in which actual cash is greater than the amount that should be present.",
+    "mean_vi": "thừa quỹ tiền mặt"
+  },
+  {
+    "term": "cash shortage",
+    "def_en": "A situation in which actual cash is less than the amount that should be present.",
+    "mean_vi": "thiếu quỹ tiền mặt"
+  },
+  {
+    "term": "cash withdrawal",
+    "def_en": "The act of taking physical cash out of an account.",
+    "mean_vi": "rút tiền mặt"
+  },
+  {
+    "term": "cashback",
+    "def_en": "Money returned to a customer under a purchase or card rewards scheme.",
+    "mean_vi": "hoàn tiền"
+  },
+  {
+    "term": "cashier's check",
+    "def_en": "A check issued by a bank and funded by the bank rather than the purchaser's personal account.",
+    "mean_vi": "séc ngân hàng; cashier's check"
+  },
+  {
+    "term": "central bank",
+    "def_en": "An institution responsible for monetary policy and central banking functions in an economy.",
+    "mean_vi": "ngân hàng trung ương"
+  },
+  {
+    "term": "change",
+    "def_en": "Coins or small-denomination money given back after a payment.",
+    "mean_vi": "tiền thối lại; tiền lẻ"
+  },
+  {
+    "term": "change of address form",
+    "def_en": "A form used to inform a bank of a new address.",
+    "mean_vi": "mẫu thông báo thay đổi địa chỉ"
+  },
+  {
+    "term": "charge",
+    "def_en": "To require payment of a fee or price; an amount charged.",
+    "mean_vi": "tính phí; khoản phí"
+  },
+  {
+    "term": "check",
+    "def_en": "A written order instructing a bank to pay money from an account.",
+    "mean_vi": "séc"
+  },
+  {
+    "term": "check the accuracy",
+    "def_en": "To verify that information or a transaction is correct.",
+    "mean_vi": "kiểm tra độ chính xác"
+  },
+  {
+    "term": "check the balance",
+    "def_en": "To find out the amount held in or owed on an account.",
+    "mean_vi": "kiểm tra số dư"
+  },
+  {
+    "term": "checkbook",
+    "def_en": "A book containing blank checks and a record of issued checks.",
+    "mean_vi": "sổ séc"
+  },
+  {
+    "term": "checking account",
+    "def_en": "A bank account used for frequent transactions, payments, and withdrawals.",
+    "mean_vi": "tài khoản thanh toán"
+  },
+  {
+    "term": "Chief Executive Officer (CEO)",
+    "def_en": "The senior executive responsible for the overall management of an organization.",
+    "mean_vi": "tổng giám đốc điều hành Ghi chú: Nguồn PDF ghi “Chief Executive Operator”; chức danh đúng cho nghĩa tổng giám đốc điều hành là “Chief Executive Officer”."
+  },
+  {
+    "term": "click a link",
+    "def_en": "To select a hyperlink to open its destination.",
+    "mean_vi": "nhấp vào đường liên kết"
+  },
+  {
+    "term": "client",
+    "def_en": "A person or organization receiving professional services.",
+    "mean_vi": "khách hàng sử dụng dịch vụ chuyên môn"
+  },
+  {
+    "term": "client relationship",
+    "def_en": "An ongoing professional connection between a business and a client.",
+    "mean_vi": "mối quan hệ với khách hàng"
+  },
+  {
+    "term": "close an account",
+    "def_en": "To end a bank account and complete any remaining requirements.",
+    "mean_vi": "đóng tài khoản"
+  },
+  {
+    "term": "closing cost",
+    "def_en": "Expenses paid to complete a loan or property-financing transaction.",
+    "mean_vi": "chi phí hoàn tất khoản vay/giao dịch"
+  },
+  {
+    "term": "closing statement",
+    "def_en": "A final statement showing an account's transactions and balance at closure.",
+    "mean_vi": "sao kê khi đóng tài khoản"
+  },
+  {
+    "term": "coin machine",
+    "def_en": "A machine used to count, sort, or process coins.",
+    "mean_vi": "máy xử lý/đếm tiền xu"
+  },
+  {
+    "term": "coin wrapper",
+    "def_en": "A paper or plastic container used to hold a fixed number of coins.",
+    "mean_vi": "ống/giấy cuộn đựng tiền xu"
+  },
+  {
+    "term": "coins",
+    "def_en": "Metal money used as currency.",
+    "mean_vi": "tiền xu"
+  },
+  {
+    "term": "commercial",
+    "def_en": "Relating to business, trade, or activities conducted for profit.",
+    "mean_vi": "thuộc thương mại; doanh nghiệp"
+  },
+  {
+    "term": "commercial bank",
+    "def_en": "A bank that accepts deposits, makes loans, and provides payment services.",
+    "mean_vi": "ngân hàng thương mại"
+  },
+  {
+    "term": "commission",
+    "def_en": "A fee paid to an agent or broker for arranging a transaction.",
+    "mean_vi": "phí hoa hồng"
+  },
+  {
+    "term": "communication skills",
+    "def_en": "The abilities needed to exchange information clearly and effectively.",
+    "mean_vi": "kỹ năng giao tiếp"
+  },
+  {
+    "term": "company offering",
+    "def_en": "A product or service made available by a company.",
+    "mean_vi": "sản phẩm hoặc dịch vụ công ty cung cấp"
+  },
+  {
+    "term": "compare interest rates",
+    "def_en": "To examine different interest rates to identify their differences.",
+    "mean_vi": "so sánh lãi suất"
+  },
+  {
+    "term": "compensation",
+    "def_en": "Money or another benefit paid to compensate for work, loss, or damage.",
+    "mean_vi": "khoản bồi thường; thù lao"
+  },
+  {
+    "term": "competitive interest rate",
+    "def_en": "An interest rate that compares favourably with those offered by other providers.",
+    "mean_vi": "lãi suất cạnh tranh"
+  },
+  {
+    "term": "complaint",
+    "def_en": "An expression of dissatisfaction about a product, service, or situation.",
+    "mean_vi": "khiếu nại; lời phàn nàn"
+  },
+  {
+    "term": "complete a form",
+    "def_en": "To provide all the information required on a form.",
+    "mean_vi": "hoàn thành biểu mẫu"
+  },
+  {
+    "term": "completed application form",
+    "def_en": "An application form with all required information filled in.",
+    "mean_vi": "đơn đăng ký đã điền đầy đủ"
+  },
+  {
+    "term": "completion",
+    "def_en": "The act of finishing or completing a process or transaction.",
+    "mean_vi": "sự hoàn tất"
+  },
+  {
+    "term": "compliance officer",
+    "def_en": "An employee who helps ensure that an organization follows applicable rules.",
+    "mean_vi": "chuyên viên tuân thủ"
+  },
+  {
+    "term": "compound interest",
+    "def_en": "Interest calculated on both the original principal and previously earned interest.",
+    "mean_vi": "lãi kép"
+  },
+  {
+    "term": "conference table",
+    "def_en": "A large table used for meetings and discussions.",
+    "mean_vi": "bàn họp"
+  },
+  {
+    "term": "confirm",
+    "def_en": "To establish or state that information or an arrangement is correct.",
+    "mean_vi": "xác nhận"
+  },
+  {
+    "term": "confirmation letter",
+    "def_en": "A letter formally confirming an action, fact, or arrangement.",
+    "mean_vi": "thư xác nhận"
+  },
+  {
+    "term": "confuse",
+    "def_en": "To mistake one thing or person for another.",
+    "mean_vi": "nhầm lẫn"
+  },
+  {
+    "term": "consider",
+    "def_en": "To think carefully about something before making a decision.",
+    "mean_vi": "cân nhắc"
+  },
+  {
+    "term": "construction",
+    "def_en": "The process of building or assembling a structure or facility.",
+    "mean_vi": "xây dựng"
+  },
+  {
+    "term": "contact the bank",
+    "def_en": "To communicate with a bank to request help or information.",
+    "mean_vi": "liên hệ ngân hàng"
+  },
+  {
+    "term": "contractor",
+    "def_en": "A person or company hired to perform work under a contract.",
+    "mean_vi": "nhà thầu"
+  },
+  {
+    "term": "cooperative bank",
+    "def_en": "A bank owned and controlled by its members.",
+    "mean_vi": "ngân hàng hợp tác xã"
+  },
+  {
+    "term": "cooperative credit bank",
+    "def_en": "A member-owned banking institution that provides credit and related services.",
+    "mean_vi": "ngân hàng hợp tác xã tín dụng"
+  },
+  {
+    "term": "couch",
+    "def_en": "A long, comfortable seat for two or more people.",
+    "mean_vi": "ghế sofa"
+  },
+  {
+    "term": "couches and armchairs",
+    "def_en": "Soft seating consisting of sofas and individual chairs with arms.",
+    "mean_vi": "ghế sofa và ghế bành"
+  },
+  {
+    "term": "count",
+    "def_en": "To determine the number or amount of something.",
+    "mean_vi": "đếm"
+  },
+  {
+    "term": "count cash accurately",
+    "def_en": "To determine the amount of cash without making counting errors.",
+    "mean_vi": "đếm tiền mặt chính xác"
+  },
+  {
+    "term": "counter",
+    "def_en": "A long work surface where customers receive service.",
+    "mean_vi": "quầy giao dịch"
+  },
+  {
+    "term": "counterfeit detector",
+    "def_en": "A device used to identify potentially counterfeit banknotes or documents.",
+    "mean_vi": "thiết bị phát hiện tiền giả"
+  },
+  {
+    "term": "counterfeit pen",
+    "def_en": "A pen used to help detect counterfeit banknotes.",
+    "mean_vi": "bút kiểm tra tiền giả"
+  },
+  {
+    "term": "credit",
+    "def_en": "An arrangement allowing money to be borrowed or payment to be deferred.",
+    "mean_vi": "tín dụng"
+  },
+  {
+    "term": "credit analyst",
+    "def_en": "A professional who evaluates borrowers' credit risk and ability to repay.",
+    "mean_vi": "chuyên viên phân tích tín dụng"
+  },
+  {
+    "term": "credit assistant",
+    "def_en": "An employee who supports credit administration and lending work.",
+    "mean_vi": "trợ lý tín dụng"
+  },
+  {
+    "term": "credit card",
+    "def_en": "A card that allows purchases or cash advances using borrowed funds.",
+    "mean_vi": "thẻ tín dụng"
+  },
+  {
+    "term": "credit card statement",
+    "def_en": "A periodic record of credit card transactions, charges, and payment information.",
+    "mean_vi": "sao kê thẻ tín dụng"
+  },
+  {
+    "term": "credit history",
+    "def_en": "A record of a person's borrowing and repayment behaviour.",
+    "mean_vi": "lịch sử tín dụng"
+  },
+  {
+    "term": "credit limit",
+    "def_en": "The maximum amount a lender allows a customer to borrow or spend on a credit facility.",
+    "mean_vi": "hạn mức tín dụng"
+  },
+  {
+    "term": "credit manager",
+    "def_en": "A manager responsible for lending decisions, credit policy, and credit risk.",
+    "mean_vi": "quản lý tín dụng"
+  },
+  {
+    "term": "credit score",
+    "def_en": "A numerical assessment used to indicate a borrower's credit risk.",
+    "mean_vi": "điểm tín dụng"
+  },
+  {
+    "term": "credit supervisor",
+    "def_en": "A person who oversees credit staff or credit-related activities.",
+    "mean_vi": "giám sát tín dụng"
+  },
+  {
+    "term": "creditworthiness",
+    "def_en": "The assessed ability and willingness of a borrower to repay debt.",
+    "mean_vi": "mức độ tín nhiệm tín dụng"
+  },
+  {
+    "term": "creditworthy",
+    "def_en": "Considered likely to repay borrowed money as agreed.",
+    "mean_vi": "có uy tín tín dụng; đủ khả năng tín dụng"
+  },
+  {
+    "term": "currency",
+    "def_en": "The money officially used in a particular country or economy.",
+    "mean_vi": "tiền tệ"
+  },
+  {
+    "term": "currency counter",
+    "def_en": "A machine that counts banknotes, usually at high speed.",
+    "mean_vi": "máy đếm tiền giấy"
+  },
+  {
+    "term": "current account",
+    "def_en": "A bank account used for everyday payments and withdrawals, also called a checking account.",
+    "mean_vi": "tài khoản thanh toán; tài khoản vãng lai"
+  },
+  {
+    "term": "current balance",
+    "def_en": "The balance currently recorded on an account, which may differ from the available balance.",
+    "mean_vi": "số dư hiện tại"
+  },
+  {
+    "term": "current funds",
+    "def_en": "Money held or available at the present time.",
+    "mean_vi": "số tiền hiện có"
+  },
+  {
+    "term": "current rate",
+    "def_en": "The interest rate or price currently applicable in the market or under an agreement.",
+    "mean_vi": "mức lãi suất hiện hành"
+  },
+  {
+    "term": "customer",
+    "def_en": "A person or organization that uses a bank's products or services.",
+    "mean_vi": "khách hàng"
+  },
+  {
+    "term": "customer register",
+    "def_en": "A record containing information about customers or customer transactions.",
+    "mean_vi": "sổ đăng ký khách hàng"
+  },
+  {
+    "term": "customer service agent",
+    "def_en": "An employee who helps customers with questions, requests, and problems.",
+    "mean_vi": "nhân viên dịch vụ khách hàng"
+  },
+  {
+    "term": "customer service desk",
+    "def_en": "A desk where customers receive assistance and service.",
+    "mean_vi": "quầy dịch vụ khách hàng"
+  },
+  {
+    "term": "customer service hotline",
+    "def_en": "A telephone number through which customers can obtain assistance.",
+    "mean_vi": "ổng đài dịch vụ khách hàng"
+  },
+  {
+    "term": "customer service skills",
+    "def_en": "The abilities needed to assist customers and respond to their needs.",
+    "mean_vi": "kỹ năng phục vụ khách hàng"
+  },
+  {
+    "term": "debit",
+    "def_en": "An accounting entry on the debit side; in banking, an amount taken out of an account.",
+    "mean_vi": "bên Nợ; khoản ghi nợ hoặc trừ tiền khỏi tài khoản"
+  },
+  {
+    "term": "debit card",
+    "def_en": "A payment card that takes money directly from a bank account.",
+    "mean_vi": "thẻ ghi nợ"
+  },
+  {
+    "term": "debt",
+    "def_en": "Money that a person or organization owes.",
+    "mean_vi": "khoản nợ"
+  },
+  {
+    "term": "declined transaction",
+    "def_en": "A transaction that the bank or payment system refuses to authorize or process.",
+    "mean_vi": "giao dịch bị từ chối"
+  },
+  {
+    "term": "deflation",
+    "def_en": "A sustained decrease in the general price level of goods and services.",
+    "mean_vi": "giảm phát Ghi chú: Hiệu đính nghĩa “Động lực” trong PDF thành “giảm phát”."
+  },
+  {
+    "term": "delay of shipment",
+    "def_en": "A situation in which goods are delivered later than expected.",
+    "mean_vi": "việc giao hàng bị trì hoãn"
+  },
+  {
+    "term": "denomination",
+    "def_en": "The face value of a banknote, coin, or financial instrument.",
+    "mean_vi": "mệnh giá"
+  },
+  {
+    "term": "department",
+    "def_en": "A division of an organization with a specific function.",
+    "mean_vi": "phòng; ban"
+  },
+  {
+    "term": "deposit",
+    "def_en": "Money placed into a bank account; to place money into an account.",
+    "mean_vi": "tiền gửi; gửi tiền"
+  },
+  {
+    "term": "deposit confirmation",
+    "def_en": "An acknowledgment that a deposit has been received or recorded.",
+    "mean_vi": "xác nhận gửi tiền"
+  },
+  {
+    "term": "deposit limit",
+    "def_en": "A limit on the amount or frequency of deposits.",
+    "mean_vi": "hạn mức gửi tiền"
+  },
+  {
+    "term": "deposit pad",
+    "def_en": "A pad or form used to record information for a bank deposit.",
+    "mean_vi": "phiếu/sổ ghi tiền gửi"
+  },
+  {
+    "term": "deposit slip",
+    "def_en": "A form used to record money being deposited into a bank account.",
+    "mean_vi": "phiếu gửi tiền"
+  },
+  {
+    "term": "deposit transaction",
+    "def_en": "A transaction that places money into an account.",
+    "mean_vi": "giao dịch gửi tiền"
+  },
+  {
+    "term": "depositor",
+    "def_en": "A person who deposits money in a bank.",
+    "mean_vi": "người gửi tiền"
+  },
+  {
+    "term": "derivative",
+    "def_en": "A financial contract whose value depends on an underlying asset, rate, or index.",
+    "mean_vi": "công cụ tài chính phái sinh"
+  },
+  {
+    "term": "desk",
+    "def_en": "A piece of furniture used for working or writing.",
+    "mean_vi": "bàn làm việc"
+  },
+  {
+    "term": "desk chair",
+    "def_en": "A chair designed for use at a desk.",
+    "mean_vi": "ghế bàn làm việc"
+  },
+  {
+    "term": "development bank",
+    "def_en": "A financial institution that provides funding to support economic and social development.",
+    "mean_vi": "ngân hàng phát triển"
+  },
+  {
+    "term": "direct deposit",
+    "def_en": "A payment deposited electronically into a bank account, often a salary.",
+    "mean_vi": "nhận tiền trực tiếp qua tài khoản"
+  },
+  {
+    "term": "director",
+    "def_en": "A person who manages an organization or serves on its board.",
+    "mean_vi": "giám đốc; thành viên hội đồng quản trị"
+  },
+  {
+    "term": "diverse",
+    "def_en": "Including a range of different types or characteristics.",
+    "mean_vi": "đa dạng"
+  },
+  {
+    "term": "diversify",
+    "def_en": "To spread investments or activities across different types to reduce concentration.",
+    "mean_vi": "đa dạng hóa"
+  },
+  {
+    "term": "dividend",
+    "def_en": "A distribution of a company's profits or reserves to shareholders.",
+    "mean_vi": "cổ tức"
+  },
+  {
+    "term": "downsizing advice",
+    "def_en": "Guidance on moving to a smaller home or reducing one's scale of living.",
+    "mean_vi": "tư vấn thu nhỏ quy mô nhà ở; giảm chi phí sinh hoạt"
+  },
+  {
+    "term": "duplicate transaction",
+    "def_en": "A transaction recorded or processed more than once by mistake.",
+    "mean_vi": "giao dịch trùng lặp"
+  },
+  {
+    "term": "early payoff penalty",
+    "def_en": "A fee charged for repaying a loan before the agreed maturity date.",
+    "mean_vi": "phí phạt trả nợ trước hạn"
+  },
+  {
+    "term": "earn",
+    "def_en": "To receive money from work, investment, or another activity.",
+    "mean_vi": "kiếm được; thu được"
+  },
+  {
+    "term": "economic growth",
+    "def_en": "An increase in the production of goods and services in an economy.",
+    "mean_vi": "tăng trưởng kinh tế"
+  },
+  {
+    "term": "efficient",
+    "def_en": "Working or operating effectively with little waste of time or resources.",
+    "mean_vi": "hiệu quả"
+  },
+  {
+    "term": "EFT (Electronic Funds Transfer)",
+    "def_en": "The electronic movement of money between accounts.",
+    "mean_vi": "chuyển tiền điện tử"
+  },
+  {
+    "term": "electronic funds transfer",
+    "def_en": "The electronic movement of money from one account to another.",
+    "mean_vi": "chuyển tiền điện tử"
+  },
+  {
+    "term": "eligible",
+    "def_en": "Meeting the conditions required to receive a benefit or service.",
+    "mean_vi": "đủ điều kiện"
+  },
+  {
+    "term": "employ a variety",
+    "def_en": "To use a range of different methods, tools, or measures.",
+    "mean_vi": "sử dụng đa dạng; áp dụng nhiều loại"
+  },
+  {
+    "term": "employee",
+    "def_en": "A person who works for an employer in return for pay.",
+    "mean_vi": "nhân viên; người lao động"
+  },
+  {
+    "term": "employment details",
+    "def_en": "Information about a person's job, employer, and work status.",
+    "mean_vi": "thông tin việc làm"
+  },
+  {
+    "term": "end of the day",
+    "def_en": "The close of a day's work or business operations.",
+    "mean_vi": "cuối ngày làm việc"
+  },
+  {
+    "term": "envelope",
+    "def_en": "A paper or other container used to hold documents or money.",
+    "mean_vi": "phong bì"
+  },
+  {
+    "term": "equity",
+    "def_en": "The residual ownership interest in assets after liabilities are deducted.",
+    "mean_vi": "vốn chủ sở hữu"
+  },
+  {
+    "term": "equity fund",
+    "def_en": "An investment fund that invests mainly in shares.",
+    "mean_vi": "quỹ cổ phiếu"
+  },
+  {
+    "term": "escrow account",
+    "def_en": "An account in which a third party holds money until agreed conditions are met.",
+    "mean_vi": "tài khoản ký quỹ do bên thứ ba quản lý"
+  },
+  {
+    "term": "ETF (Exchange-Traded Fund)",
+    "def_en": "An investment fund whose shares trade on a stock exchange.",
+    "mean_vi": "quỹ hoán đổi danh mục; quỹ giao dịch trên sàn"
+  },
+  {
+    "term": "evaluate",
+    "def_en": "To assess the value, quality, risk, or performance of something.",
+    "mean_vi": "đánh giá"
+  },
+  {
+    "term": "exceed the credit limit",
+    "def_en": "To borrow or spend more than the maximum amount allowed.",
+    "mean_vi": "vượt hạn mức tín dụng"
+  },
+  {
+    "term": "exchange",
+    "def_en": "The act of giving one currency or form of money for another.",
+    "mean_vi": "đổi; trao đổi"
+  },
+  {
+    "term": "exchange rate",
+    "def_en": "The price of one currency expressed in another currency.",
+    "mean_vi": "tỷ giá hối đoái"
+  },
+  {
+    "term": "expense",
+    "def_en": "A cost incurred in earning income or carrying out activities.",
+    "mean_vi": "chi phí"
+  },
+  {
+    "term": "face recognition",
+    "def_en": "The identification or verification of a person by facial features.",
+    "mean_vi": "nhận dạng khuôn mặt"
+  },
+  {
+    "term": "fall below",
+    "def_en": "To become lower than a specified level.",
+    "mean_vi": "giảm xuống dưới"
+  },
+  {
+    "term": "fast coin counter",
+    "def_en": "A machine that quickly counts coins.",
+    "mean_vi": "máy đếm tiền xu nhanh"
+  },
+  {
+    "term": "FD (Fixed Deposit)",
+    "def_en": "Money deposited for a fixed period under agreed terms.",
+    "mean_vi": "tiền gửi có kỳ hạn"
+  },
+  {
+    "term": "fee",
+    "def_en": "An amount charged for a service or facility.",
+    "mean_vi": "phí"
+  },
+  {
+    "term": "filing cabinets",
+    "def_en": "Furniture with drawers used to store documents and records.",
+    "mean_vi": "tủ hồ sơ"
+  },
+  {
+    "term": "fill in",
+    "def_en": "To enter information in the blank spaces on a form.",
+    "mean_vi": "điền thông tin"
+  },
+  {
+    "term": "fill out",
+    "def_en": "To complete a form by entering the required information.",
+    "mean_vi": "điền; hoàn thành biểu mẫu"
+  },
+  {
+    "term": "fill out a deposit slip",
+    "def_en": "To complete a form recording money to be deposited.",
+    "mean_vi": "điền phiếu gửi tiền"
+  },
+  {
+    "term": "finance",
+    "def_en": "The management and provision of money, especially for businesses or investments.",
+    "mean_vi": "tài chính; tài trợ vốn"
+  },
+  {
+    "term": "finance charge",
+    "def_en": "A fee or interest charged for borrowing money or using credit.",
+    "mean_vi": "phí tài chính; chi phí tín dụng"
+  },
+  {
+    "term": "financial",
+    "def_en": "Relating to money and its management.",
+    "mean_vi": "thuộc tài chính"
+  },
+  {
+    "term": "financial advisor",
+    "def_en": "A professional who advises clients on financial matters and planning.",
+    "mean_vi": "cố vấn tài chính"
+  },
+  {
+    "term": "financial analyst",
+    "def_en": "A professional who analyzes financial data to support decisions.",
+    "mean_vi": "chuyên viên phân tích tài chính"
+  },
+  {
+    "term": "financial goal",
+    "def_en": "An objective involving saving, spending, borrowing, or investing money.",
+    "mean_vi": "mục tiêu tài chính"
+  },
+  {
+    "term": "financial history",
+    "def_en": "A record of a person's or organization's past financial activities and performance.",
+    "mean_vi": "lịch sử tài chính"
+  },
+  {
+    "term": "financial needs",
+    "def_en": "A person's or organization's requirements concerning money and financial services.",
+    "mean_vi": "nhu cầu tài chính"
+  },
+  {
+    "term": "financial planner",
+    "def_en": "A professional who helps clients plan how to reach their financial goals.",
+    "mean_vi": "chuyên viên hoạch định tài chính"
+  },
+  {
+    "term": "financial planning",
+    "def_en": "The process of organizing finances to meet present and future goals.",
+    "mean_vi": "lập kế hoạch tài chính"
+  },
+  {
+    "term": "financial statement",
+    "def_en": "A formal report showing an organization's financial position and performance.",
+    "mean_vi": "báo cáo tài chính"
+  },
+  {
+    "term": "financing",
+    "def_en": "The provision or arrangement of money needed for a purchase, project, or business activity.",
+    "mean_vi": "nguồn vốn; hoạt động tài trợ vốn"
+  },
+  {
+    "term": "finest oak",
+    "def_en": "High-quality oak wood, usually referring to furniture or fittings.",
+    "mean_vi": "gỗ sồi loại tốt nhất"
+  },
+  {
+    "term": "fingerprint pad",
+    "def_en": "A pad containing ink used for taking fingerprints.",
+    "mean_vi": "miếng mực lấy dấu vân tay"
+  },
+  {
+    "term": "fingerprint recognition",
+    "def_en": "The identification or verification of a person by their fingerprints.",
+    "mean_vi": "nhận dạng vân tay"
+  },
+  {
+    "term": "fixed deposit account",
+    "def_en": "An account in which money is deposited for an agreed fixed period.",
+    "mean_vi": "tài khoản tiền gửi có kỳ hạn"
+  },
+  {
+    "term": "for profit",
+    "def_en": "Operating with the purpose of earning a financial return.",
+    "mean_vi": "vì lợi nhuận"
+  },
+  {
+    "term": "foreign currency account",
+    "def_en": "A bank account holding money in a foreign currency.",
+    "mean_vi": "tài khoản ngoại tệ"
+  },
+  {
+    "term": "form",
+    "def_en": "A document with spaces for entering information.",
+    "mean_vi": "biểu mẫu"
+  },
+  {
+    "term": "foyer",
+    "def_en": "An entrance hall or reception area in a building.",
+    "mean_vi": "sảnh vào"
+  },
+  {
+    "term": "fraud",
+    "def_en": "Intentional deception used to obtain money or another benefit.",
+    "mean_vi": "gian lận"
+  },
+  {
+    "term": "freeze an account",
+    "def_en": "To temporarily prevent some or all transactions on an account.",
+    "mean_vi": "phong tỏa; tạm khóa giao dịch tài khoản"
+  },
+  {
+    "term": "funds",
+    "def_en": "Money available or held for a purpose.",
+    "mean_vi": "nguồn tiền; các khoản tiền"
+  },
+  {
+    "term": "future returns",
+    "def_en": "Investment gains or losses that may occur in later periods.",
+    "mean_vi": "kết quả sinh lời trong tương lai"
+  },
+  {
+    "term": "get a bank statement",
+    "def_en": "To obtain a record of account balances and transactions.",
+    "mean_vi": "lấy sao kê ngân hàng"
+  },
+  {
+    "term": "guarantee",
+    "def_en": "A promise or assurance that something will happen or that an obligation will be fulfilled.",
+    "mean_vi": "sự bảo đảm; bảo lãnh; cam kết Ghi chú: Word có ghi chú nhắc “gas guarantee”, nhưng mục 130 ghi “guarantee”. Không tự coi “gas guarantee” là thuật ngữ chuẩn."
+  },
+  {
+    "term": "handle",
+    "def_en": "To manage, process, or deal with something.",
+    "mean_vi": "xử lý; thực hiện"
+  },
+  {
+    "term": "handle a complaint",
+    "def_en": "To receive, investigate, and respond to a customer's expression of dissatisfaction.",
+    "mean_vi": "xử lý khiếu nại"
+  },
+  {
+    "term": "head",
+    "def_en": "The person in charge of an organization, department, or team.",
+    "mean_vi": "người đứng đầu; trưởng bộ phận"
+  },
+  {
+    "term": "head of department",
+    "def_en": "A person responsible for managing a department.",
+    "mean_vi": "trưởng phòng; trưởng bộ phận"
+  },
+  {
+    "term": "IBAN (International Bank Account Number)",
+    "def_en": "A standardized international format for identifying a bank account.",
+    "mean_vi": "số tài khoản ngân hàng quốc tế"
+  },
+  {
+    "term": "ID (Identification)",
+    "def_en": "A document or other evidence used to establish a person's identity.",
+    "mean_vi": "giấy tờ tùy thân; thông tin định danh"
+  },
+  {
+    "term": "identification documents",
+    "def_en": "Documents used to prove a person's identity.",
+    "mean_vi": "giấy tờ định danh; giấy tờ tùy thân"
+  },
+  {
+    "term": "identify the thief",
+    "def_en": "To determine who committed a theft.",
+    "mean_vi": "xác định kẻ trộm"
+  },
+  {
+    "term": "identity",
+    "def_en": "The characteristics and details establishing who a person is.",
+    "mean_vi": "danh tính"
+  },
+  {
+    "term": "inconvenience",
+    "def_en": "Trouble or difficulty that disrupts normal activities.",
+    "mean_vi": "sự bất tiện"
+  },
+  {
+    "term": "individual",
+    "def_en": "A single person, rather than a company or organization.",
+    "mean_vi": "cá nhân"
+  },
+  {
+    "term": "inflation",
+    "def_en": "A sustained increase in the general price level of goods and services.",
+    "mean_vi": "lạm phát"
+  },
+  {
+    "term": "information",
+    "def_en": "Facts or details about someone or something.",
+    "mean_vi": "thông tin"
+  },
+  {
+    "term": "initiate an investigation",
+    "def_en": "To begin examining an incident to establish what happened.",
+    "mean_vi": "bắt đầu điều tra; tiến hành xác minh"
+  },
+  {
+    "term": "inspect",
+    "def_en": "To examine something carefully to check its condition or accuracy.",
+    "mean_vi": "kiểm tra; thanh tra"
+  },
+  {
+    "term": "installment plan",
+    "def_en": "An arrangement to pay a total amount in a series of smaller payments.",
+    "mean_vi": "kế hoạch trả góp"
+  },
+  {
+    "term": "instantaneous transfer",
+    "def_en": "A transfer that is completed almost immediately.",
+    "mean_vi": "chuyển tiền tức thời"
+  },
+  {
+    "term": "insufficient funds",
+    "def_en": "A situation in which an account does not contain enough money for a payment.",
+    "mean_vi": "không đủ số dư"
+  },
+  {
+    "term": "insurance",
+    "def_en": "An arrangement providing financial protection against specified risks.",
+    "mean_vi": "bảo hiểm"
+  },
+  {
+    "term": "insurance guidance",
+    "def_en": "Advice about insurance needs and policies.",
+    "mean_vi": "tư vấn bảo hiểm"
+  },
+  {
+    "term": "interest",
+    "def_en": "Money paid or earned for the use of money; the rate used to calculate it is the interest rate.",
+    "mean_vi": "tiền lãi; lãi (phân biệt interest rate là lãi suất)"
+  },
+  {
+    "term": "interest rate",
+    "def_en": "The percentage used to calculate interest over a specified period.",
+    "mean_vi": "lãi suất"
+  },
+  {
+    "term": "interest-free period",
+    "def_en": "A period during which qualifying transactions avoid interest if the stated conditions are met.",
+    "mean_vi": "thời gian miễn lãi có điều kiện"
+  },
+  {
+    "term": "internet bank",
+    "def_en": "A bank that provides banking services through the internet.",
+    "mean_vi": "ngân hàng trực tuyến"
+  },
+  {
+    "term": "interpret data",
+    "def_en": "To explain the meaning and implications of data.",
+    "mean_vi": "diễn giải dữ liệu"
+  },
+  {
+    "term": "introductory rate",
+    "def_en": "A temporary promotional interest rate offered at the beginning of a credit agreement.",
+    "mean_vi": "lãi suất ưu đãi ban đầu"
+  },
+  {
+    "term": "inventory",
+    "def_en": "A list or stock of goods, materials, or supplies held by an organization.",
+    "mean_vi": "hàng tồn kho; kiểm kê"
+  },
+  {
+    "term": "invest",
+    "def_en": "To commit money or resources with the aim of earning a return.",
+    "mean_vi": "đầu tư"
+  },
+  {
+    "term": "investigation",
+    "def_en": "A systematic examination to establish the facts of a problem or event.",
+    "mean_vi": "cuộc điều tra; việc xác minh"
+  },
+  {
+    "term": "investment",
+    "def_en": "Money committed to an asset or activity with the aim of earning a return.",
+    "mean_vi": "khoản đầu tư; hoạt động đầu tư"
+  },
+  {
+    "term": "investment bank",
+    "def_en": "A financial institution that helps clients raise capital and arrange major financial transactions.",
+    "mean_vi": "ngân hàng đầu tư"
+  },
+  {
+    "term": "investment banker",
+    "def_en": "A professional who helps organizations raise capital and arrange financial transactions.",
+    "mean_vi": "chuyên viên ngân hàng đầu tư"
+  },
+  {
+    "term": "investment option",
+    "def_en": "A type of investment that a person can choose.",
+    "mean_vi": "lựa chọn đầu tư"
+  },
+  {
+    "term": "investor",
+    "def_en": "A person or organization that commits money with the aim of earning a return.",
+    "mean_vi": "nhà đầu tư"
+  },
+  {
+    "term": "IPO (Initial Public Offering)",
+    "def_en": "The first offering of a company's shares to the public.",
+    "mean_vi": "phát hành cổ phiếu lần đầu ra công chúng"
+  },
+  {
+    "term": "IRA (Individual Retirement Account)",
+    "def_en": "A personal retirement savings account with tax advantages under United States rules.",
+    "mean_vi": "tài khoản hưu trí cá nhân tại Hoa Kỳ"
+  },
+  {
+    "term": "irrevocable",
+    "def_en": "Unable to be changed, cancelled, or reversed once legally effective.",
+    "mean_vi": "không thể hủy ngang"
+  },
+  {
+    "term": "issue",
+    "def_en": "To officially provide or produce something, such as a card, check, or document.",
+    "mean_vi": "phát hành; cấp"
+  },
+  {
+    "term": "joint account",
+    "def_en": "A bank account held by two or more people.",
+    "mean_vi": "tài khoản chung"
+  },
+  {
+    "term": "joint venture account",
+    "def_en": "An account used for the financial activities of a joint venture.",
+    "mean_vi": "tài khoản liên doanh"
+  },
+  {
+    "term": "large amount of money",
+    "def_en": "A sum of money considered large in the relevant situation.",
+    "mean_vi": "số tiền lớn"
+  },
+  {
+    "term": "late payment fee",
+    "def_en": "A fee charged when a required payment is not made on time.",
+    "mean_vi": "phí chậm thanh toán"
+  },
+  {
+    "term": "lender",
+    "def_en": "A person or institution that lends money.",
+    "mean_vi": "bên cho vay"
+  },
+  {
+    "term": "letter of credit",
+    "def_en": "A bank's undertaking to make payment to a beneficiary when specified conditions are met.",
+    "mean_vi": "thư tín dụng; L/C"
+  },
+  {
+    "term": "liability",
+    "def_en": "A present financial obligation or debt owed to another party.",
+    "mean_vi": "nợ phải trả; nghĩa vụ tài chính"
+  },
+  {
+    "term": "limit",
+    "def_en": "The greatest amount or number that is allowed.",
+    "mean_vi": "giới hạn; hạn mức"
+  },
+  {
+    "term": "link",
+    "def_en": "A clickable reference that opens another online location.",
+    "mean_vi": "đường liên kết"
+  },
+  {
+    "term": "liquid check",
+    "def_en": "An unclear expression in the supplied Word list; the intended banking term cannot be established from the supplied context.",
+    "mean_vi": "Cụm từ chưa rõ nghĩa trong nguồn; cần đối chiếu ghi chép gốc. Ghi chú: Giữ nguyên mục từ trong Word để không mất dấu nguồn. Cụm này không phải thuật ngữ ngân hàng chuẩn phổ biến; chưa đủ căn cứ xác định tác giả muốn viết gì."
+  },
+  {
+    "term": "liquidity",
+    "def_en": "The ease of converting an asset into cash, or the ability to meet short-term obligations.",
+    "mean_vi": "tính thanh khoản"
+  },
+  {
+    "term": "loan account",
+    "def_en": "An account recording a loan, repayments, and the amount still owed.",
+    "mean_vi": "tài khoản khoản vay"
+  },
+  {
+    "term": "loan application",
+    "def_en": "A formal request for a loan together with the required information.",
+    "mean_vi": "hồ sơ vay; đơn đề nghị vay"
+  },
+  {
+    "term": "loan officer",
+    "def_en": "A bank employee who assists with loan applications and assesses borrowers.",
+    "mean_vi": "chuyên viên tín dụng; nhân viên phụ trách cho vay"
+  },
+  {
+    "term": "loan process",
+    "def_en": "The series of steps involved in applying for, assessing, approving, and disbursing a loan.",
+    "mean_vi": "quy trình cho vay"
+  },
+  {
+    "term": "lobby",
+    "def_en": "The main public area inside a bank or other building.",
+    "mean_vi": "sảnh giao dịch"
+  },
+  {
+    "term": "lock out",
+    "def_en": "To prevent someone from accessing an account, system, or facility.",
+    "mean_vi": "khóa quyền truy cập"
+  },
+  {
+    "term": "log in",
+    "def_en": "To enter the credentials needed to access an account or system.",
+    "mean_vi": "đăng nhập"
+  },
+  {
+    "term": "login",
+    "def_en": "The process of entering credentials to access a system or account.",
+    "mean_vi": "đăng nhập Ghi chú: Login thường là danh từ hoặc tính từ; động từ viết tách là log in."
+  },
+  {
+    "term": "long-term",
+    "def_en": "Continuing or existing for a long period of time.",
+    "mean_vi": "dài hạn"
+  },
+  {
+    "term": "long-term bond",
+    "def_en": "A bond with a relatively long period before maturity.",
+    "mean_vi": "trái phiếu dài hạn"
+  },
+  {
+    "term": "long-term client relationships",
+    "def_en": "Continuing professional relationships with clients over a long period.",
+    "mean_vi": "quan hệ khách hàng lâu dài"
+  },
+  {
+    "term": "loss",
+    "def_en": "The amount by which expenses exceed revenue, or a decrease in value.",
+    "mean_vi": "lỗ; tổn thất"
+  },
+  {
+    "term": "lost or stolen card",
+    "def_en": "A card that has been misplaced or taken without permission.",
+    "mean_vi": "thẻ bị mất hoặc bị đánh cắp"
+  },
+  {
+    "term": "low risk",
+    "def_en": "Involving a relatively small likelihood or degree of loss.",
+    "mean_vi": "rủi ro thấp"
+  },
+  {
+    "term": "lower interest rates",
+    "def_en": "To reduce interest rates; also rates that are relatively low.",
+    "mean_vi": "hạ lãi suất; mức lãi suất thấp hơn"
+  },
+  {
+    "term": "mahogany desk",
+    "def_en": "A desk made from mahogany wood.",
+    "mean_vi": "bàn gỗ gụ"
+  },
+  {
+    "term": "maintain",
+    "def_en": "To keep something at a particular level, condition, or standard.",
+    "mean_vi": "duy trì"
+  },
+  {
+    "term": "make a cash withdrawal",
+    "def_en": "To take cash out of a bank account.",
+    "mean_vi": "rút tiền mặt"
+  },
+  {
+    "term": "make a deposit",
+    "def_en": "To place money into a bank account.",
+    "mean_vi": "gửi tiền; thực hiện khoản tiền gửi"
+  },
+  {
+    "term": "make a payment",
+    "def_en": "To pay an amount of money that is due.",
+    "mean_vi": "thực hiện thanh toán"
+  },
+  {
+    "term": "make transactions",
+    "def_en": "To carry out financial activities such as payments, deposits, or transfers.",
+    "mean_vi": "thực hiện giao dịch"
+  },
+  {
+    "term": "manage",
+    "def_en": "To organize, control, or direct an activity or resource.",
+    "mean_vi": "quản lý"
+  },
+  {
+    "term": "manage an account",
+    "def_en": "To monitor and control the use of a bank or other financial account.",
+    "mean_vi": "quản lý tài khoản"
+  },
+  {
+    "term": "management fee",
+    "def_en": "A fee paid for managing an investment or other assets.",
+    "mean_vi": "phí quản lý"
+  },
+  {
+    "term": "manager's office",
+    "def_en": "The office used by a manager.",
+    "mean_vi": "văn phòng của quản lý"
+  },
+  {
+    "term": "market risk",
+    "def_en": "The risk of loss caused by changes in market prices or conditions.",
+    "mean_vi": "rủi ro thị trường"
+  },
+  {
+    "term": "mat",
+    "def_en": "A small piece of material placed on a floor or surface for protection or cleaning.",
+    "mean_vi": "tấm thảm; miếng lót"
+  },
+  {
+    "term": "maximum deposit limit",
+    "def_en": "The greatest amount permitted to be deposited under specified conditions.",
+    "mean_vi": "hạn mức gửi tiền tối đa"
+  },
+  {
+    "term": "meet",
+    "def_en": "To fulfill, satisfy, or comply with a requirement or obligation.",
+    "mean_vi": "đáp ứng; thực hiện"
+  },
+  {
+    "term": "merchant banking",
+    "def_en": "Banking services focused on corporate finance, investment, advisory, and other services for businesses.",
+    "mean_vi": "ngân hàng thương mại đầu tư/merchant banking"
+  },
+  {
+    "term": "minimum balance",
+    "def_en": "The smallest amount of money that must be kept in an account.",
+    "mean_vi": "số dư tối thiểu"
+  },
+  {
+    "term": "minimum payment",
+    "def_en": "The smallest amount that must be paid by the due date on a credit account.",
+    "mean_vi": "số tiền thanh toán tối thiểu"
+  },
+  {
+    "term": "miss a payment",
+    "def_en": "To fail to make a required payment by its due date.",
+    "mean_vi": "bỏ lỡ kỳ thanh toán; không trả đúng hạn"
+  },
+  {
+    "term": "mobile banking",
+    "def_en": "Banking services accessed using a mobile device.",
+    "mean_vi": "ngân hàng di động"
+  },
+  {
+    "term": "mobile banking app",
+    "def_en": "An application used to access banking services on a mobile device.",
+    "mean_vi": "ứng dụng ngân hàng di động"
+  },
+  {
+    "term": "money",
+    "def_en": "A generally accepted means of payment and store of value.",
+    "mean_vi": "tiền"
+  },
+  {
+    "term": "money market account",
+    "def_en": "A deposit account that pays interest and may provide limited payment facilities.",
+    "mean_vi": "tài khoản tiền gửi thị trường tiền tệ"
+  },
+  {
+    "term": "money market fund",
+    "def_en": "A fund that invests mainly in short-term debt and other money market instruments.",
+    "mean_vi": "quỹ thị trường tiền tệ"
+  },
+  {
+    "term": "monitor",
+    "def_en": "A screen or device used to display information or supervise activity.",
+    "mean_vi": "màn hình; thiết bị giám sát"
+  },
+  {
+    "term": "monthly fee",
+    "def_en": "A fee charged once each month.",
+    "mean_vi": "phí hằng tháng"
+  },
+  {
+    "term": "mortgage",
+    "def_en": "A loan secured by real property, or the security interest supporting that loan.",
+    "mean_vi": "khoản vay thế chấp bất động sản; thế chấp"
+  },
+  {
+    "term": "mortgage guidance",
+    "def_en": "Advice about borrowing secured by real property.",
+    "mean_vi": "tư vấn vay thế chấp"
+  },
+  {
+    "term": "mortgage loan",
+    "def_en": "A loan secured by a property.",
+    "mean_vi": "khoản vay thế chấp bất động sản"
+  },
+  {
+    "term": "mutual fund",
+    "def_en": "An investment fund that pools investors' money to buy a portfolio of assets.",
+    "mean_vi": "quỹ tương hỗ Ghi chú: Hiệu đính nghĩa “quỹ hỗn hợp” trong PDF thành “quỹ tương hỗ”; balanced fund mới là quỹ cân bằng."
+  },
+  {
+    "term": "necessary documents",
+    "def_en": "Documents required for a particular process.",
+    "mean_vi": "các giấy tờ cần thiết"
+  },
+  {
+    "term": "numerical skills",
+    "def_en": "The abilities needed to understand numbers and perform calculations.",
+    "mean_vi": "kỹ năng tính toán"
+  },
+  {
+    "term": "obligation",
+    "def_en": "A duty or responsibility that a person or organization is required to fulfill.",
+    "mean_vi": "nghĩa vụ"
+  },
+  {
+    "term": "obtaining a loan",
+    "def_en": "The process of receiving a loan from a lender.",
+    "mean_vi": "việc vay/nhận khoản vay"
+  },
+  {
+    "term": "official record",
+    "def_en": "A document or entry recognized as an authoritative record.",
+    "mean_vi": "hồ sơ chính thức"
+  },
+  {
+    "term": "offshore bank",
+    "def_en": "A bank located outside a customer's country of residence, often in an offshore financial centre.",
+    "mean_vi": "ngân hàng ở khu vực tài chính ngoài lãnh thổ; ngân hàng hải ngoại Ghi chú: Không đồng nhất offshore bank với mọi ngân hàng nước ngoài."
+  },
+  {
+    "term": "on the go",
+    "def_en": "While travelling or away from a fixed place.",
+    "mean_vi": "khi đang di chuyển"
+  },
+  {
+    "term": "on time",
+    "def_en": "At or before the required time.",
+    "mean_vi": "đúng hạn"
+  },
+  {
+    "term": "online bank",
+    "def_en": "A bank that provides its services mainly through the internet.",
+    "mean_vi": "ngân hàng trực tuyến"
+  },
+  {
+    "term": "online banking",
+    "def_en": "Banking services accessed through the internet.",
+    "mean_vi": "ngân hàng trực tuyến"
+  },
+  {
+    "term": "online banking account",
+    "def_en": "An account that can be accessed and managed through online banking.",
+    "mean_vi": "tài khoản ngân hàng trực tuyến"
+  },
+  {
+    "term": "online transfer",
+    "def_en": "A transfer of money initiated through an internet service.",
+    "mean_vi": "chuyển tiền trực tuyến"
+  },
+  {
+    "term": "open an account",
+    "def_en": "To establish a new account with a bank or financial institution.",
+    "mean_vi": "mở tài khoản"
+  },
+  {
+    "term": "operation",
+    "def_en": "An activity involved in running a business or providing a service.",
+    "mean_vi": "hoạt động; nghiệp vụ"
+  },
+  {
+    "term": "operations manager",
+    "def_en": "A manager responsible for the day-to-day running of a business or department.",
+    "mean_vi": "quản lý vận hành"
+  },
+  {
+    "term": "operations officer",
+    "def_en": "An employee who handles and monitors an organization's daily operations.",
+    "mean_vi": "nhân viên nghiệp vụ; chuyên viên vận hành"
+  },
+  {
+    "term": "organization",
+    "def_en": "A structured group of people working toward shared purposes.",
+    "mean_vi": "tổ chức"
+  },
+  {
+    "term": "OTP (One-Time Password)",
+    "def_en": "A password valid for one use or a limited authentication session.",
+    "mean_vi": "mật khẩu dùng một lần; mã OTP"
+  },
+  {
+    "term": "outstanding balance",
+    "def_en": "The amount of a debt or credit account that remains unpaid.",
+    "mean_vi": "dư nợ chưa thanh toán"
+  },
+  {
+    "term": "overdraft / overdrafts",
+    "def_en": "An amount by which withdrawals or payments exceed the available account balance.",
+    "mean_vi": "thấu chi; khoản thấu chi Ghi chú: Số ít: overdraft; số nhiều trong Word: overdrafts."
+  },
+  {
+    "term": "owe",
+    "def_en": "To have an obligation to pay money to someone.",
+    "mean_vi": "nợ tiền"
+  },
+  {
+    "term": "P2P (Peer-to-Peer)",
+    "def_en": "A direct relationship or transaction between individuals or equivalent participants.",
+    "mean_vi": "ngang hàng; giữa cá nhân với cá nhân"
+  },
+  {
+    "term": "paper shredder",
+    "def_en": "A machine that cuts paper into small pieces to protect confidential information.",
+    "mean_vi": "máy hủy giấy"
+  },
+  {
+    "term": "paperless electronic statement",
+    "def_en": "A digital account statement provided instead of a printed statement.",
+    "mean_vi": "sao kê điện tử không giấy"
+  },
+  {
+    "term": "paperwork",
+    "def_en": "Documents and administrative forms that must be completed or processed.",
+    "mean_vi": "giấy tờ; hồ sơ thủ tục"
+  },
+  {
+    "term": "password",
+    "def_en": "A secret sequence of characters used to authenticate a user.",
+    "mean_vi": "mật khẩu"
+  },
+  {
+    "term": "past returns",
+    "def_en": "Investment gains or losses recorded in earlier periods.",
+    "mean_vi": "kết quả sinh lời trong quá khứ"
+  },
+  {
+    "term": "pay",
+    "def_en": "To give money in exchange for something or to settle an obligation.",
+    "mean_vi": "trả tiền; thanh toán"
+  },
+  {
+    "term": "pay off the balance",
+    "def_en": "To pay the full amount still owed on an account.",
+    "mean_vi": "thanh toán hết dư nợ"
+  },
+  {
+    "term": "payment",
+    "def_en": "Money paid, or the act of paying it.",
+    "mean_vi": "khoản thanh toán; việc thanh toán"
+  },
+  {
+    "term": "payment due date",
+    "def_en": "The date by which a required payment must be made.",
+    "mean_vi": "ngày đến hạn thanh toán"
+  },
+  {
+    "term": "pending transaction",
+    "def_en": "A transaction that has been started but has not yet been finally processed.",
+    "mean_vi": "giao dịch đang chờ xử lý"
+  },
+  {
+    "term": "per annum",
+    "def_en": "For each year; annually.",
+    "mean_vi": "mỗi năm; hằng năm"
+  },
+  {
+    "term": "percent",
+    "def_en": "One part in every hundred.",
+    "mean_vi": "phần trăm"
+  },
+  {
+    "term": "performance",
+    "def_en": "How well a person, business, or investment performs.",
+    "mean_vi": "hiệu quả; kết quả hoạt động"
+  },
+  {
+    "term": "performance bond",
+    "def_en": "A bond or guarantee that protects against a contractor's failure to perform according to a contract.",
+    "mean_vi": "bảo lãnh thực hiện hợp đồng"
+  },
+  {
+    "term": "personal banker",
+    "def_en": "A bank employee who provides financial products and services to individual customers.",
+    "mean_vi": "chuyên viên ngân hàng cá nhân"
+  },
+  {
+    "term": "personal information",
+    "def_en": "Information that identifies or relates to an individual.",
+    "mean_vi": "thông tin cá nhân"
+  },
+  {
+    "term": "personal loan",
+    "def_en": "Money lent to an individual for personal purposes.",
+    "mean_vi": "khoản vay cá nhân"
+  },
+  {
+    "term": "phishing",
+    "def_en": "A fraudulent attempt to obtain sensitive information by pretending to be a trustworthy person or organization.",
+    "mean_vi": "lừa đảo giả mạo để lấy thông tin"
+  },
+  {
+    "term": "PIN (Personal Identification Number)",
+    "def_en": "A secret numerical code used to verify a user's identity.",
+    "mean_vi": "mã số nhận dạng cá nhân; mã PIN"
+  },
+  {
+    "term": "position",
+    "def_en": "A job or role within an organization.",
+    "mean_vi": "vị trí; chức vụ"
+  },
+  {
+    "term": "potential client",
+    "def_en": "A person or organization that may become a customer.",
+    "mean_vi": "khách hàng tiềm năng"
+  },
+  {
+    "term": "prefer",
+    "def_en": "To like or choose one option more than another.",
+    "mean_vi": "ưa thích; ưu tiên"
+  },
+  {
+    "term": "principal",
+    "def_en": "The original amount of money deposited, invested, or borrowed, excluding interest.",
+    "mean_vi": "tiền gốc"
+  },
+  {
+    "term": "private bank",
+    "def_en": "A privately owned bank; also a bank specializing in services for wealthy clients, depending on context.",
+    "mean_vi": "ngân hàng tư nhân; ngân hàng phục vụ khách hàng tài sản lớn"
+  },
+  {
+    "term": "proactive support",
+    "def_en": "Help offered in anticipation of needs or problems.",
+    "mean_vi": "hỗ trợ chủ động"
+  },
+  {
+    "term": "problem-solving skills",
+    "def_en": "The abilities needed to identify problems and find workable solutions.",
+    "mean_vi": "kỹ năng giải quyết vấn đề"
+  },
+  {
+    "term": "procedure",
+    "def_en": "An established series of steps for completing a task.",
+    "mean_vi": "thủ tục; quy trình"
+  },
+  {
+    "term": "process",
+    "def_en": "A series of steps; to handle something through those steps.",
+    "mean_vi": "quy trình; xử lý"
+  },
+  {
+    "term": "process a transaction",
+    "def_en": "To carry out the steps needed to complete or record a transaction.",
+    "mean_vi": "xử lý giao dịch"
+  },
+  {
+    "term": "profit",
+    "def_en": "The amount by which revenue exceeds expenses.",
+    "mean_vi": "lợi nhuận"
+  },
+  {
+    "term": "project",
+    "def_en": "A planned activity or undertaking with a defined objective, scope, and duration.",
+    "mean_vi": "dự án"
+  },
+  {
+    "term": "promotional interest rate",
+    "def_en": "A special interest rate offered to attract or retain customers for a limited period.",
+    "mean_vi": "lãi suất khuyến mại; lãi suất ưu đãi"
+  },
+  {
+    "term": "proof of address",
+    "def_en": "A document showing where a person lives.",
+    "mean_vi": "giấy tờ chứng minh địa chỉ"
+  },
+  {
+    "term": "proof of deposit",
+    "def_en": "Evidence showing that money has been deposited.",
+    "mean_vi": "chứng từ xác nhận gửi tiền"
+  },
+  {
+    "term": "proof of income",
+    "def_en": "Documents showing how much a person earns.",
+    "mean_vi": "giấy tờ chứng minh thu nhập"
+  },
+  {
+    "term": "provide",
+    "def_en": "To give or make something available.",
+    "mean_vi": "cung cấp"
+  },
+  {
+    "term": "pull out",
+    "def_en": "To withdraw money or remove funds from an account or investment.",
+    "mean_vi": "rút tiền; rút vốn"
+  },
+  {
+    "term": "purchase",
+    "def_en": "The act of buying something, or something bought.",
+    "mean_vi": "việc mua hàng; khoản mua hàng"
+  },
+  {
+    "term": "put money into an account",
+    "def_en": "To deposit money in a bank account.",
+    "mean_vi": "gửi tiền vào tài khoản"
+  },
+  {
+    "term": "real-time gross settlement transfer",
+    "def_en": "A transfer settled individually and in real time, without netting against other transactions.",
+    "mean_vi": "chuyển tiền thanh toán tổng thời gian thực (RTGS)"
+  },
+  {
+    "term": "receipt",
+    "def_en": "A document acknowledging that money or something else has been received.",
+    "mean_vi": "biên lai; giấy biên nhận"
+  },
+  {
+    "term": "receive",
+    "def_en": "To get or accept something that is given or sent.",
+    "mean_vi": "nhận"
+  },
+  {
+    "term": "recipient",
+    "def_en": "A person or organization that receives something, especially a payment.",
+    "mean_vi": "người nhận"
+  },
+  {
+    "term": "recipient's account details",
+    "def_en": "Information identifying the bank account of the person receiving money.",
+    "mean_vi": "thông tin tài khoản người nhận"
+  },
+  {
+    "term": "recommend",
+    "def_en": "To suggest something as suitable or advisable.",
+    "mean_vi": "đề xuất; khuyến nghị"
+  },
+  {
+    "term": "records",
+    "def_en": "Documents or stored information kept as evidence or for future reference.",
+    "mean_vi": "hồ sơ; thông tin lưu trữ"
+  },
+  {
+    "term": "refer a customer to",
+    "def_en": "To direct a customer to a suitable person, department, or service.",
+    "mean_vi": "chuyển; giới thiệu khách hàng đến"
+  },
+  {
+    "term": "refinance a loan",
+    "def_en": "To replace an existing loan with new borrowing, usually on different terms.",
+    "mean_vi": "tái cấp vốn; thay thế khoản vay bằng khoản vay mới"
+  },
+  {
+    "term": "refinancing",
+    "def_en": "Replacing existing borrowing with new borrowing under revised terms.",
+    "mean_vi": "tái cấp vốn"
+  },
+  {
+    "term": "relationship banker",
+    "def_en": "A banker who develops customer relationships and recommends suitable banking services.",
+    "mean_vi": "chuyên viên quan hệ khách hàng ngân hàng"
+  },
+  {
+    "term": "relationship manager",
+    "def_en": "An employee who develops and manages relationships with customers.",
+    "mean_vi": "chuyên viên hoặc quản lý quan hệ khách hàng"
+  },
+  {
+    "term": "reliable borrower",
+    "def_en": "A borrower expected to repay money as agreed.",
+    "mean_vi": "người vay đáng tin cậy"
+  },
+  {
+    "term": "remain",
+    "def_en": "To continue to exist or stay in a particular condition or place.",
+    "mean_vi": "duy trì; còn lại"
+  },
+  {
+    "term": "remaining funds",
+    "def_en": "Money left after earlier payments, withdrawals, or other uses.",
+    "mean_vi": "số tiền còn lại"
+  },
+  {
+    "term": "renewal",
+    "def_en": "The act of extending or continuing an account, deposit, contract, or agreement.",
+    "mean_vi": "gia hạn; tái tục"
+  },
+  {
+    "term": "repay",
+    "def_en": "To pay back money that is owed, especially a loan.",
+    "mean_vi": "hoàn trả; trả nợ"
+  },
+  {
+    "term": "repay a loan",
+    "def_en": "To pay back money borrowed under a loan agreement.",
+    "mean_vi": "trả nợ vay"
+  },
+  {
+    "term": "repayment",
+    "def_en": "The act or schedule of paying borrowed money back to a lender.",
+    "mean_vi": "việc hoàn trả; lịch trả nợ"
+  },
+  {
+    "term": "report data",
+    "def_en": "To present or communicate collected information.",
+    "mean_vi": "báo cáo dữ liệu"
+  },
+  {
+    "term": "request",
+    "def_en": "To ask formally for something; an expression of such an ask.",
+    "mean_vi": "yêu cầu; đề nghị"
+  },
+  {
+    "term": "requirement",
+    "def_en": "Something that must be provided, achieved, or complied with.",
+    "mean_vi": "yêu cầu; điều kiện"
+  },
+  {
+    "term": "resolve an issue",
+    "def_en": "To find and implement a solution to a problem.",
+    "mean_vi": "giải quyết vấn đề"
+  },
+  {
+    "term": "responsible for",
+    "def_en": "Having a duty to manage, perform, or account for something.",
+    "mean_vi": "chịu trách nhiệm về"
+  },
+  {
+    "term": "restriction",
+    "def_en": "A rule or condition limiting what can be done.",
+    "mean_vi": "hạn chế; quy định giới hạn"
+  },
+  {
+    "term": "retirement",
+    "def_en": "The stage of life after leaving regular paid employment.",
+    "mean_vi": "sự nghỉ hưu; giai đoạn hưu trí"
+  },
+  {
+    "term": "retirement account",
+    "def_en": "An account used to save or invest money for retirement.",
+    "mean_vi": "tài khoản hưu trí"
+  },
+  {
+    "term": "retirement planning",
+    "def_en": "The process of preparing financially for life after employment.",
+    "mean_vi": "lập kế hoạch hưu trí"
+  },
+  {
+    "term": "return",
+    "def_en": "The gain or loss on an investment; also to give or send something back.",
+    "mean_vi": "lợi tức; mức sinh lời; trả lại"
+  },
+  {
+    "term": "return on investment (ROI)",
+    "def_en": "A measure comparing an investment's net gain with its cost.",
+    "mean_vi": "tỷ suất sinh lời trên vốn đầu tư"
+  },
+  {
+    "term": "revenue",
+    "def_en": "Income earned from an organization's ordinary business activities.",
+    "mean_vi": "doanh thu"
+  },
+  {
+    "term": "review",
+    "def_en": "To examine something carefully, often before making a decision.",
+    "mean_vi": "xem xét; rà soát"
+  },
+  {
+    "term": "rewards",
+    "def_en": "Benefits such as points, miles, or cashback earned through a card programme.",
+    "mean_vi": "phần thưởng; ưu đãi tích lũy"
+  },
+  {
+    "term": "risk",
+    "def_en": "The possibility of loss or an outcome different from what is expected.",
+    "mean_vi": "rủi ro"
+  },
+  {
+    "term": "risk manager",
+    "def_en": "A professional who identifies, assesses, and manages risks.",
+    "mean_vi": "quản lý rủi ro"
+  },
+  {
+    "term": "ROA (Return on Assets)",
+    "def_en": "A profitability measure comparing earnings with total assets.",
+    "mean_vi": "tỷ suất sinh lời trên tài sản"
+  },
+  {
+    "term": "ROE (Return on Equity)",
+    "def_en": "A profitability measure comparing earnings with shareholders' equity.",
+    "mean_vi": "tỷ suất sinh lời trên vốn chủ sở hữu"
+  },
+  {
+    "term": "routing number",
+    "def_en": "A bank identification number used to route payments, especially in the United States.",
+    "mean_vi": "mã định tuyến ngân hàng"
+  },
+  {
+    "term": "safe deposit box",
+    "def_en": "A secure box rented from a bank for storing valuables or documents.",
+    "mean_vi": "két/ngăn giữ tài sản an toàn"
+  },
+  {
+    "term": "satisfied client",
+    "def_en": "A client whose needs or expectations have been met.",
+    "mean_vi": "khách hàng hài lòng"
+  },
+  {
+    "term": "save",
+    "def_en": "To keep money for future use rather than spend it now.",
+    "mean_vi": "tiết kiệm"
+  },
+  {
+    "term": "savings",
+    "def_en": "Money that has been set aside rather than spent.",
+    "mean_vi": "tiền tiết kiệm"
+  },
+  {
+    "term": "savings account",
+    "def_en": "A bank account designed for saving money and usually earning interest.",
+    "mean_vi": "tài khoản tiết kiệm"
+  },
+  {
+    "term": "savings advice",
+    "def_en": "Guidance on setting aside and managing savings.",
+    "mean_vi": "tư vấn tiết kiệm"
+  },
+  {
+    "term": "savings and loan",
+    "def_en": "A financial institution that accepts savings deposits and mainly makes home loans.",
+    "mean_vi": "tổ chức tiết kiệm và cho vay"
+  },
+  {
+    "term": "secure connection",
+    "def_en": "A connection protected by security measures such as encryption.",
+    "mean_vi": "kết nối an toàn"
+  },
+  {
+    "term": "secure payment",
+    "def_en": "A payment made using safeguards against fraud or loss.",
+    "mean_vi": "khoản thanh toán an toàn"
+  },
+  {
+    "term": "secured loan",
+    "def_en": "A loan backed by collateral that the lender can claim if the borrower defaults.",
+    "mean_vi": "khoản vay có tài sản bảo đảm"
+  },
+  {
+    "term": "securities",
+    "def_en": "Tradable financial instruments such as shares and bonds.",
+    "mean_vi": "chứng khoán"
+  },
+  {
+    "term": "security",
+    "def_en": "Measures or conditions that protect people, assets, systems, or information.",
+    "mean_vi": "an ninh; bảo mật"
+  },
+  {
+    "term": "security alert",
+    "def_en": "A warning about a possible security problem.",
+    "mean_vi": "cảnh báo bảo mật"
+  },
+  {
+    "term": "security measure",
+    "def_en": "A procedure or tool used to protect people, systems, money, or information.",
+    "mean_vi": "biện pháp bảo mật/an ninh"
+  },
+  {
+    "term": "senior credit analyst",
+    "def_en": "An experienced analyst who evaluates borrowers and complex credit risks.",
+    "mean_vi": "chuyên viên phân tích tín dụng cấp cao"
+  },
+  {
+    "term": "sensitive document",
+    "def_en": "A document containing confidential or sensitive information.",
+    "mean_vi": "tài liệu nhạy cảm; tài liệu bảo mật"
+  },
+  {
+    "term": "service",
+    "def_en": "Work or assistance provided to a customer or another person.",
+    "mean_vi": "dịch vụ"
+  },
+  {
+    "term": "service charge",
+    "def_en": "A fee charged for providing a service.",
+    "mean_vi": "phí dịch vụ"
+  },
+  {
+    "term": "settle",
+    "def_en": "To complete a financial transaction by transferring funds or fulfilling obligations.",
+    "mean_vi": "tất toán; quyết toán; hoàn tất thanh toán"
+  },
+  {
+    "term": "settlement",
+    "def_en": "The final process of completing a financial transaction and transferring the money owed.",
+    "mean_vi": "việc hoàn tất thanh toán; quyết toán Ghi chú: Settlement là hoàn tất nghĩa vụ thanh toán; clearing mới chỉ quá trình bù trừ."
+  },
+  {
+    "term": "share a password",
+    "def_en": "To disclose a password to another person.",
+    "mean_vi": "chia sẻ; tiết lộ mật khẩu"
+  },
+  {
+    "term": "shift",
+    "def_en": "A period of time during which an employee works.",
+    "mean_vi": "ca làm việc"
+  },
+  {
+    "term": "shredder",
+    "def_en": "A machine that cuts paper or documents into small pieces.",
+    "mean_vi": "máy hủy tài liệu; máy hủy giấy"
+  },
+  {
+    "term": "smaller denominations",
+    "def_en": "Banknotes or coins with lower face values.",
+    "mean_vi": "các mệnh giá nhỏ hơn"
+  },
+  {
+    "term": "solve a problem",
+    "def_en": "To find an answer or effective response to a difficulty.",
+    "mean_vi": "giải quyết vấn đề"
+  },
+  {
+    "term": "staff",
+    "def_en": "The employees of an organization considered as a group.",
+    "mean_vi": "đội ngũ nhân viên"
+  },
+  {
+    "term": "stamp",
+    "def_en": "A small printed mark or label used to show that a document or fee has been processed.",
+    "mean_vi": "con dấu; tem"
+  },
+  {
+    "term": "state bank",
+    "def_en": "A bank owned by the state; the name may also refer to a country's central bank.",
+    "mean_vi": "ngân hàng nhà nước; ngân hàng quốc doanh tùy ngữ cảnh"
+  },
+  {
+    "term": "stimulate economic growth",
+    "def_en": "To encourage an increase in an economy's output and activity.",
+    "mean_vi": "kích thích tăng trưởng kinh tế"
+  },
+  {
+    "term": "stock",
+    "def_en": "A share representing ownership in a company.",
+    "mean_vi": "cổ phiếu"
+  },
+  {
+    "term": "strategy",
+    "def_en": "A plan for achieving an overall objective.",
+    "mean_vi": "chiến lược"
+  },
+  {
+    "term": "student account",
+    "def_en": "A bank account designed for students.",
+    "mean_vi": "tài khoản sinh viên"
+  },
+  {
+    "term": "supervise",
+    "def_en": "To oversee people's work or the performance of an activity.",
+    "mean_vi": "giám sát"
+  },
+  {
+    "term": "support",
+    "def_en": "To help a person or activity; assistance provided.",
+    "mean_vi": "hỗ trợ"
+  },
+  {
+    "term": "suspicious activity",
+    "def_en": "Behaviour or transactions that may indicate fraud or another problem.",
+    "mean_vi": "hoạt động đáng ngờ"
+  },
+  {
+    "term": "swipe card reader",
+    "def_en": "A device that reads data from the magnetic stripe of a card.",
+    "mean_vi": "máy đọc thẻ quẹt"
+  },
+  {
+    "term": "take out",
+    "def_en": "To remove money from an account; also to obtain a loan, depending on context.",
+    "mean_vi": "rút tiền; vay theo ngữ cảnh"
+  },
+  {
+    "term": "tax",
+    "def_en": "A compulsory payment imposed by a public authority.",
+    "mean_vi": "thuế"
+  },
+  {
+    "term": "team leader",
+    "def_en": "A person who leads and coordinates a team.",
+    "mean_vi": "trưởng nhóm"
+  },
+  {
+    "term": "teller",
+    "def_en": "A bank employee who handles customer transactions such as deposits and withdrawals.",
+    "mean_vi": "giao dịch viên ngân hàng"
+  },
+  {
+    "term": "teller pedestals",
+    "def_en": "Compact drawer or cabinet units used at teller workstations.",
+    "mean_vi": "tủ ngăn kéo hoặc bệ tủ tại quầy giao dịch viên"
+  },
+  {
+    "term": "teller receipt",
+    "def_en": "A document showing that a teller has processed a transaction.",
+    "mean_vi": "biên lai giao dịch viên"
+  },
+  {
+    "term": "teller station",
+    "def_en": "A designated workstation where a bank teller serves customers.",
+    "mean_vi": "quầy/vị trí giao dịch viên"
+  },
+  {
+    "term": "teller supervisor",
+    "def_en": "An employee who supervises tellers and checks their work.",
+    "mean_vi": "giám sát viên giao dịch viên"
+  },
+  {
+    "term": "temporary interest rate",
+    "def_en": "An interest rate that applies only for a limited period.",
+    "mean_vi": "lãi suất tạm thời"
+  },
+  {
+    "term": "terms",
+    "def_en": "The conditions and requirements of a financial agreement.",
+    "mean_vi": "điều khoản"
+  },
+  {
+    "term": "time deposit",
+    "def_en": "A deposit held for a specified period, usually earning interest.",
+    "mean_vi": "tiền gửi có kỳ hạn"
+  },
+  {
+    "term": "transaction",
+    "def_en": "A financial activity such as a deposit, withdrawal, transfer, or payment.",
+    "mean_vi": "giao dịch"
+  },
+  {
+    "term": "transaction guidelines",
+    "def_en": "Instructions or rules governing how transactions should be handled.",
+    "mean_vi": "hướng dẫn giao dịch"
+  },
+  {
+    "term": "transaction history",
+    "def_en": "A record of past transactions on an account.",
+    "mean_vi": "lịch sử giao dịch"
+  },
+  {
+    "term": "transaction receipt",
+    "def_en": "A document confirming that a transaction has been processed.",
+    "mean_vi": "biên lai giao dịch"
+  },
+  {
+    "term": "transfer",
+    "def_en": "To move money from one account or person to another; the movement itself.",
+    "mean_vi": "chuyển tiền; khoản chuyển tiền"
+  },
+  {
+    "term": "transfer money",
+    "def_en": "To move money from one person or account to another.",
+    "mean_vi": "chuyển tiền"
+  },
+  {
+    "term": "treasury analyst",
+    "def_en": "A professional who analyzes cash, funding, liquidity, and treasury activities.",
+    "mean_vi": "chuyên viên phân tích ngân quỹ Ghi chú: Chuẩn hóa nghĩa theo nghiệp vụ ngân quỹ; không giới hạn ở kế toán ngân sách."
+  },
+  {
+    "term": "two-factor authentication",
+    "def_en": "Identity verification using two distinct categories of authentication factors.",
+    "mean_vi": "xác thực hai yếu tố"
+  },
+  {
+    "term": "unauthorized transaction",
+    "def_en": "A transaction made without the account holder's permission.",
+    "mean_vi": "giao dịch không được chủ tài khoản cho phép"
+  },
+  {
+    "term": "understand client needs",
+    "def_en": "To recognize what clients require or expect.",
+    "mean_vi": "hiểu nhu cầu khách hàng"
+  },
+  {
+    "term": "underwriting",
+    "def_en": "The process of evaluating and accepting financial risk, especially when approving loans or insurance.",
+    "mean_vi": "thẩm định tín dụng; bảo lãnh phát hành"
+  },
+  {
+    "term": "unknown device",
+    "def_en": "A device that a system or user does not recognize.",
+    "mean_vi": "thiết bị lạ"
+  },
+  {
+    "term": "unlock an account",
+    "def_en": "To restore access to a locked account.",
+    "mean_vi": "mở khóa tài khoản"
+  },
+  {
+    "term": "update personal information",
+    "def_en": "To change personal details so that they remain accurate.",
+    "mean_vi": "cập nhật thông tin cá nhân"
+  },
+  {
+    "term": "username",
+    "def_en": "A name used to identify an account user when signing in.",
+    "mean_vi": "tên đăng nhập"
+  },
+  {
+    "term": "vault",
+    "def_en": "A highly secure room for storing cash, valuables, or records.",
+    "mean_vi": "két sắt; kho tiền"
+  },
+  {
+    "term": "verification",
+    "def_en": "The process of checking whether information, identity, or a transaction is valid.",
+    "mean_vi": "sự xác minh"
+  },
+  {
+    "term": "verification code",
+    "def_en": "A code used to confirm identity or authorize an action.",
+    "mean_vi": "mã xác minh"
+  },
+  {
+    "term": "verify",
+    "def_en": "To check that something is true, correct, or valid.",
+    "mean_vi": "xác minh; kiểm tra"
+  },
+  {
+    "term": "verify a customer's identity",
+    "def_en": "To check evidence that a customer is the person they claim to be.",
+    "mean_vi": "xác minh danh tính khách hàng"
+  },
+  {
+    "term": "waiting area",
+    "def_en": "A place where customers wait for service.",
+    "mean_vi": "khu vực chờ"
+  },
+  {
+    "term": "watch out for",
+    "def_en": "To pay attention to something that could cause a problem.",
+    "mean_vi": "chú ý; đề phòng"
+  },
+  {
+    "term": "wealth manager",
+    "def_en": "A professional who manages and advises on a client's wealth and investments.",
+    "mean_vi": "chuyên viên quản lý tài sản"
+  },
+  {
+    "term": "willing to take risk",
+    "def_en": "Prepared to accept the possibility of loss or an uncertain outcome.",
+    "mean_vi": "sẵn sàng chấp nhận rủi ro"
+  },
+  {
+    "term": "wipe down the counter",
+    "def_en": "To clean the counter by wiping its surface.",
+    "mean_vi": "lau chùi quầy"
+  },
+  {
+    "term": "wire transfer",
+    "def_en": "An electronic transfer of money between bank accounts, often across banks or countries.",
+    "mean_vi": "chuyển tiền điện tử qua ngân hàng"
+  },
+  {
+    "term": "withdraw",
+    "def_en": "To take money out of a bank account.",
+    "mean_vi": "rút tiền"
+  },
+  {
+    "term": "withdraw money",
+    "def_en": "To take money out of an account.",
+    "mean_vi": "rút tiền"
+  },
+  {
+    "term": "withdrawal",
+    "def_en": "The act of taking money out of a bank account.",
+    "mean_vi": "rút tiền"
+  },
+  {
+    "term": "withdrawal form",
+    "def_en": "A form used to request or record a withdrawal from an account.",
+    "mean_vi": "phiếu rút tiền"
+  },
+  {
+    "term": "withdrawal limit",
+    "def_en": "The maximum amount or number of withdrawals allowed within a specified period.",
+    "mean_vi": "hạn mức hoặc giới hạn rút tiền"
+  },
+  {
+    "term": "withdrawal transaction",
+    "def_en": "A transaction that takes money out of an account.",
+    "mean_vi": "giao dịch rút tiền"
+  },
+  {
+    "term": "wrong fee",
+    "def_en": "A fee charged incorrectly or in error.",
+    "mean_vi": "khoản phí tính sai"
+  }
+]

@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Chon de thi - AVCN{% endblock %}
+{% block content %}
+<h2>Chon de thi trac nghiem</h2>
+<p class="muted">Co {{ tests|length }} bo de, moi de {{ tests[0].count }} cau, thoi gian lam bai 90 phut.</p>
+<div class="grid cards">
+{% for t in tests %}
+  <a href="{{ url_for('take_test', test_id=t.id) }}" class="card">
+    <div class="card-head">{{ t.title }}</div>
+    <div class="card-body">
+      <div class="row"><span class="chip"> cau: {{ t.count }}</span><span class="chip"> thoi gian: {{ t.time_min }} phut</span></div>
+      <div class="card-note">Nhap ten va lam bai online. Xem ket qua luon sau khi nop.</div>
+    </div>
+  </a>
+{% endfor %}
+</div>
+<p class="muted small">Quan ly / xoa bao cao ket qua nguoi dung: <a href="{{ url_for('admin') }}">Trang quan tri</a> (can token).</p>
+{% endblock %}

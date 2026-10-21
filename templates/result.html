@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}Ket qua - AVCN{% endblock %}
+{% block content %}
+<h2>Ket qua lam bai</h2>
+<div class="result-summary">
+  <div class="big">{{ attempt.score }} / {{ attempt.total }}</div>
+  <div class="pct">{{ "%.1f"|format((attempt.score / attempt.total) * 100) }}%</div>
+  <div class="row">
+    <span class="chip">Nguoi dung: <b>{{ attempt.user_name }}</b></span>
+    <span class="chip">De: <b>{{ titles[attempt.test_id] }}</b></span>
+    <span class="chip">Dung: <b>{{ attempt.score }}</b> / Sai: <b>{{ attempt.total - attempt.score }}</b></span>
+    <span class="chip">Thoi gian: <b>{{ (attempt.duration_sec//60) }} phut {{ attempt.duration_sec%60 }} giay</b></span>
+    <span class="chip">Nop bai: <b>{{ attempt.submitted_at }}</b></span>
+  </div>
+</div>
+
+<h3>Chi tiet cac cau</h3>
+<div class="review">
+{% for d in details %}
+  <div class="item {% if d.is_correct %}ok{% else %}err{% endif %}">
+    <div class="qid">Cau {{ loop.index }} <span class="loai">{{ d.type }}</span></div>
+    <div class="stem">{{ d.stem }}</div>
+    <div class="opts">
+      {% for o in d.options %}
+        <label class="opt {% if loop.index0 == ('ABCD'.index(d.correct_answer)) %} correct {% endif %}{% if d.user_answer is not none and loop.index0 == ('ABCD'.index(d.user_answer)) and not d.is_correct %} wrong {% endif %}">
+          <span class="letter">{{ loop.index|upper }}</span>. {{ o }}
+        </label>
+      {% endfor %}
+    </div>
+    <div class="expl">{{ d.explanation }}</div>
+    {% if not d.is_correct %}
+      <div class="wrongnote">Ban chon: {{ d.user_answer if d.user_answer else '(chua chon)' }}</div>
+    {% endif %}
+  </div>
+{% endfor %}
+</div>
+<p class="actions"><a href="{{ url_for('index') }}" class="btn">Lam bo de khac</a> &nbsp;
+<a href="{{ url_for('admin') }}" class="btn ghost">Xem bao cao tat ca nguoi dung</a></p>
+{% endblock %}
