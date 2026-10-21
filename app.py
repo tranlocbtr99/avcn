@@ -42,6 +42,10 @@ def get_qmap(test_id):
 
 # ---------- DB ----------
 def db():
+    # Đảm bảo thư mục chứa CSDL tồn tại (quan trọng trên Render khi gắn ổ đĩa)
+    parent = os.path.dirname(DB_PATH)
+    if parent:
+        os.makedirs(parent, exist_ok=True)
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     return conn
